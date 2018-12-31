@@ -1,4 +1,4 @@
-# 겨울방학 WEB 공부
+# WEB 독학하기
 
 ## JavaScript 공부
 
